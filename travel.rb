@@ -37,5 +37,3 @@ if people_num >= 5
 end
 
 puts "合計料金は#{price_sum.to_i}になります"
-
-puts "add"
